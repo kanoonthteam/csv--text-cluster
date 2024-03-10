@@ -1,4 +1,4 @@
-# Text Processing, Clustering, and Visualization Project
+# CSV Text Processing, Clustering, and Visualization Project
 
 This project offers a comprehensive pipeline for analyzing large text datasets. It automates the process of reading text data in batches, preprocessing (cleaning and preparing text), vectorizing (converting text to numerical form using methods like BERT or Word2Vec), clustering (organizing text into meaningful groups using various algorithms), and visualizing the results to derive insights.
 
