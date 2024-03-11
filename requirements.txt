@@ -7,3 +7,6 @@ scikit-learn
 matplotlib
 wordcloud
 torch
+googletrans==4.0.0-rc1
+sentence-transformers
+plotly==5.19.0
